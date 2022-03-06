@@ -1,0 +1,58 @@
+body{
+    background-color: aqua;
+    font-family: 'Pacifico', cursive;
+font-family: 'Poppins', sans-serif;
+font-family: 'Ubuntu', sans-serif;
+}
+h1{
+    text-align: center;
+    margin-top: 130px;
+    font-size: 50px;
+    padding-top: 10px;
+}
+h2{
+    text-align: center;
+    margin-top: 70px
+}
+button{
+    text-align: center;
+    margin: auto;
+    margin-left: 270px;
+    background-color: blue;
+    color: aliceblue;
+    height: 50px;
+    width: 150px;
+    border-radius: 15px;
+    font-size: large;
+}
+button:hover{
+    color: red;
+    background-color: yellow;
+}
+#shivam{
+    background-color: aliceblue;
+    width: 500px;
+    height: 250px;
+    margin: auto;
+    border-radius: 160pc;
+    background: linear-gradient(120deg, red, green);
+}
+
+#shivam h1{
+    font-family: 'Pacifico', cursive;
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 200px;
+    margin: 0%;
+    color: azure;
+}
+section{
+    margin: 0%;
+    margin: auto;
+    width: 700px;
+    border-radius: 10px;
+    height: 550px;
+    background-color: rgb(228, 228, 126);
+    box-shadow: 8px 7px 90px 6px black;
+    border: 2px;
+}
